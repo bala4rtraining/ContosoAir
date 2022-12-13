@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/bala4rtraining/bala4rtraining/_apis/build/status/bala4rtraining.ContosoAir?branchName=master)](https://dev.azure.com/bala4rtraining/bala4rtraining/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
